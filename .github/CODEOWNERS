@@ -1,0 +1,28 @@
+#front-end
+package*.json @atlastechnol/consultants-fe
+webpack.mix.js @atlastechnol/consultants-fe
+resources/ @atlastechnol/consultants-fe
+package*.json @atlastechnol/consultants-fe
+webpack.mix.js @atlastechnol/consultants-fe
+eslint*.js @atlastechnol/consultants-fe
+tailwind.config.js @atlastechnol/consultants-fe
+yarn.lock @atlastechnol/consultants-fe
+postcss.config.js @atlastechnol/consultants-fe
+
+#any
+editorconfig @atlastechnol/consultants-fe @atlastechnol/consultants-be
+
+#back-end
+database/migrations/  @atlastechnol/consultants-be
+database/seeds/  @atlastechnol/consultants-be
+composer.json @atlastechnol/consultants-be
+composer.lock @atlastechnol/consultants-be
+
+#infra
+Dockerfile*         @atlastechnol/infrastructure
+docker-compose*.yml @atlastechnol/infrastructure
+rootfs/            @atlastechnol/infrastructure
+
+#infra-production
+.env*               @atlastechnol/infra-production
+.github/ @atlastechnol/infra-production

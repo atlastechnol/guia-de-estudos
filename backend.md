@@ -1,0 +1,82 @@
+# Guideline Backend
+
+## Roadmap
+
+ - ### Linguagem de Programação
+    - #### PHP (Obrigatório)
+        - [Manual - PHP](https://www.php.net/manual/pt_BR/index.php)
+        - [PSR's](https://www.php-fig.org/psr/)
+        - [Composer](https://getcomposer.org/doc/)
+            - Desenvolvimento de Pacotes (Diferencial)
+- ### Orientação a Objetos
+    - [Documentação - PHP](https://www.php.net/manual/pt_BR/language.oop5.php)
+- ### Banco de Dados
+    - #### Relacionais
+        - [MySQL (Obrigatório)](https://dev.mysql.com/doc/)
+            - Melhoria e Performance de Queries (Diferencial)
+    - #### Não Relacionais (Diferencial)
+        - **MongoDB**
+            - [MongoDB e Laravel - MongoDB](https://www.mongodb.com/compatibility/mongodb-laravel-intergration)
+            - [Documentação - MongoDB](https://www.mongodb.com/docs/)
+        - **Redis**
+            - [Redis para Laravel - Laravel](https://laravel.com/docs/master/redis)
+            - [Documentação - Redis](https://redis.io/docs/)
+- ### Versionamento
+    - #### Git (Obrigatório)
+        - [Documentação - Git](https://git-scm.com/doc)
+- ### Framework MVC
+    - #### Laravel
+        - [Routing - Laravel](https://laravel.com/docs/master/routing)
+        - [Controllers - Laravel](https://laravel.com/docs/master/controllers)
+        - [Middlewares - Laravel](https://laravel.com/docs/master/middleware)
+        - [Requests - Laravel](https://laravel.com/docs/master/requests)
+            - [Form Requests - Laravel](https://laravel.com/docs/master/validation#form-request-validation)
+        - [Views - Laravel](https://laravel.com/docs/master/views)
+            - [View Composer - Laravel](https://laravel.com/docs/master/views#view-composers)
+        - [Blade Templates - Laravel](https://laravel.com/docs/master/blade)
+        - [Comandos Artisan - Laravel](https://laravel.com/docs/master/artisan#main-content)
+        - [Jobs - Laravel](https://laravel.com/docs/master/queues#creating-jobs)
+        - [Commands - Laravel](https://laravel.com/docs/master/artisan#writing-commands)
+        - [Queues - Laravel](https://laravel.com/docs/master/queues#main-content)
+        - [Testing - Laravel](https://laravel.com/docs/master/testing)
+        - [Service Providers - Laravel](https://laravel.com/docs/master/providers)
+        - [Make a Readable Laravel - Spatie](https://spatie.be/guidelines/laravel-php)
+- ### Design Patterns
+    - #### Padrões Estruturais
+    - #### Padrões Comportamentais
+    - #### Padrões Criacionais
+    - #### Circuit Breaker
+    - #### Repository Pattern
+- ### Testes
+    - #### PHPUnit
+        - [Documentação - PHPUnit](https://phpunit.readthedocs.io/pt_BR/latest/)
+        - [Mocking - Laravel](https://laravel.com/docs/master/mocking)
+        - [Mocking - PHPUnit](https://phpunit.readthedocs.io/pt_BR/latest/test-doubles.html)
+        - [Asserções - PHPUnit](https://phpunit.readthedocs.io/pt_BR/latest/assertions.html)
+        - [Testes de Exceções - PHPUnit](https://phpunit.readthedocs.io/pt_BR/latest/writing-tests-for-phpunit.html#testando-excecoes)
+    - #### Boas Práticas
+        - [Práticas de Testes - PHPUnit](https://phpunit.readthedocs.io/pt_BR/latest/testing-practices.html)
+- ### Boas Práticas de Desenvolvimento
+    - #### YAGNI
+    - #### SOLID
+    - #### DRY
+    - #### Clean Code
+- ### Containerização
+    - #### Docker (Obrigatório)
+        - [Documentação - Docker](https://docs.docker.com/)
+- ### Message Brokers (Diferencial)
+    - #### Amazon SQS
+        - [Documentação - Amazon](https://docs.aws.amazon.com/sqs/index.html)
+    - #### RabbitMQ
+        - [Documentação - RabbitMQ](https://www.rabbitmq.com/documentation.html)
+    - #### Apache Kafka
+        - [Documentação - Kafka](https://kafka.apache.org/documentation/)
+- ### E.L.K
+    - [Elastic Search, Logstash e Kibana](https://www.elastic.co/pt/what-is/elk-stack)
+    - [Documentação](https://www.elastic.co/guide/index.html)
+- ### AWS (Diferencial)
+    - #### S3
+        - [Documentação](https://docs.aws.amazon.com/s3/index.html?nc2=h_ql_doc_s3)
+    - #### Lambda Functions
+        - [Documentação](https://docs.aws.amazon.com/lambda/?id=docs_gateway)
+        - [Building a Serverless Laravel Application](https://aws.amazon.com/pt/blogs/compute/the-serverless-lamp-stack-part-4-building-a-serverless-laravel-application/)

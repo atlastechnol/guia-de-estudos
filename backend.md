@@ -25,7 +25,7 @@
     - #### Git (Obrigatório)
         - [Documentação - Git](https://git-scm.com/doc)
 - ### Framework MVC
-    - #### Laravel
+    - #### Laravel (Obrigatório)
         - [Routing - Laravel](https://laravel.com/docs/master/routing)
         - [Controllers - Laravel](https://laravel.com/docs/master/controllers)
         - [Middlewares - Laravel](https://laravel.com/docs/master/middleware)
@@ -48,7 +48,7 @@
     - #### Circuit Breaker
     - #### Repository Pattern
 - ### Testes
-    - #### PHPUnit
+    - #### PHPUnit (Obrigatório)
         - [Documentação - PHPUnit](https://phpunit.readthedocs.io/pt_BR/latest/)
         - [Mocking - Laravel](https://laravel.com/docs/master/mocking)
         - [Mocking - PHPUnit](https://phpunit.readthedocs.io/pt_BR/latest/test-doubles.html)

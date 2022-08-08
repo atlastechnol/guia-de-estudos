@@ -21,6 +21,6 @@ Esse guia consegue te ajudar a entender quais pontos técnicos é preciso estar 
 
 Aqui estarão os seguintes guias de estudo:
 
-- Fron-end
+- [Fron-end](https://github.com/atlastechnol/guia-de-estudos/tree/develop/frontend)
 - [Back-end](https://github.com/atlastechnol/guia-de-estudos/tree/develop/backend)
-- Quality Assurance
+- [Quality Assurance](https://github.com/atlastechnol/guia-de-estudos/tree/develop/qa)

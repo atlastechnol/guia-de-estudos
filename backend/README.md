@@ -41,6 +41,7 @@
         - [Testing - Laravel](https://laravel.com/docs/master/testing)
         - [Service Providers - Laravel](https://laravel.com/docs/master/providers)
         - [Make a Readable Laravel - Spatie](https://spatie.be/guidelines/laravel-php)
+        - [Cache](https://laravel.com/docs/master/cache)
 - ### Design Patterns
     - #### Padrões Estruturais
     - #### Padrões Comportamentais
@@ -49,13 +50,13 @@
     - #### Repository Pattern
 - ### Testes
     - #### PHPUnit (Obrigatório)
-        - [Documentação - PHPUnit](https://phpunit.readthedocs.io/pt_BR/latest/)
+        - [Documentação - PHPUnit](https://docs.phpunit.de/en/10.2/)
         - [Mocking - Laravel](https://laravel.com/docs/master/mocking)
-        - [Mocking - PHPUnit](https://phpunit.readthedocs.io/pt_BR/latest/test-doubles.html)
-        - [Asserções - PHPUnit](https://phpunit.readthedocs.io/pt_BR/latest/assertions.html)
-        - [Testes de Exceções - PHPUnit](https://phpunit.readthedocs.io/pt_BR/latest/writing-tests-for-phpunit.html#testando-excecoes)
+        - [Mocking - PHPUnit](https://docs.phpunit.de/en/10.2/test-doubles.html#mock-objects)
+        - [Asserções - PHPUnit](https://docs.phpunit.de/en/10.2/assertions.html)
+        - [Testes de Exceções - PHPUnit](https://docs.phpunit.de/en/10.2/writing-tests-for-phpunit.html#expecting-exceptions)
     - #### Boas Práticas
-        - [Práticas de Testes - PHPUnit](https://phpunit.readthedocs.io/pt_BR/latest/testing-practices.html)
+        - [Práticas de Testes - PHPUnit](https://docs.phpunit.de/en/10.2/writing-tests-for-phpunit.html)
 - ### Boas Práticas de Desenvolvimento
     - #### YAGNI
     - #### SOLID
